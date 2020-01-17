@@ -1,0 +1,991 @@
+prompt###Verb###cause someone to take a course of action
+acme###Noun###the point at which something is at its best
+imminent###Adjective###about to happen
+milieu###Noun###a person's social environment
+precedence###Noun###the condition of being considered more important than someone
+substantial###Adjective###of considerable importance
+reinvigorate###Verb###give new energy or strength to.
+effete###Adjective###affected, over-refined, and ineffectual; lacking strength, courage, or spirit###ineffectual
+moribund###Adjective###at the point of death
+seminal###Adjective###strongly influencing later developments.###original, influential
+shoddy###Adjective###badly made or done.
+glean###Verb###obtain (information) from various sources, often with difficulty.
+prod###Verb###stimulate or persuade / poke with a finger, foot, or pointed object.###nudge, stimulate
+nudge###Verb###touch or push (something) gently or gradually / encourage someone / approach someone.
+abysmal###Adjective###extremely bad; appalling / very deep
+intermittent###Adjective###occurring at irregular intervals; not continuous or steady.
+contemplate###Verb###look thoughtfully for a long time at / think about
+mar###Verb###impair / spoil
+coronation###Noun###the ceremony of crowning a sovereign
+dwindle###Verb###diminish gradually in size
+spectre###Noun###ghost / a mental image of something unpleasant or menacing###menace, apparition 
+scurrilous###Adjective###making or spreading scandalous claims about someone with the intention of damaging their reputation
+incorrigible###Adjective###not able to be changed or reformed.
+ominous###Adjective###giving the worrying impression that something bad is going to happen; threateningly inauspicious
+portent###Noun###a sign or warning that a momentous or calamitous event is likely to happen
+portentous###Adjective###of or like a portent; of momentous significance.
+sceptical###Adjective###not easily convinced; having doubts or reservations.
+frugal###Adjective###sparing or economical as regards money or food.
+attic###Noun###a space or room inside or partly inside the roof of a building.
+circa###prep###approximately like in "the church was built circa 1860"
+caveat###Noun###a warning or proviso of specific stipulations, conditions, or limitations.###stipulation,proviso
+probate###Noun###the official proving of a will.
+probation###Noun###a process of testing or observing the character or abilities of a person who is new to a role or job.
+stipulate###Verb###demand or specify (a requirement), typically as part of an agreement.
+proviso###Noun###a condition or qualification attached to an agreement or statement.###caveat,stipulation
+quandary###Noun###a state of perplexity or uncertainty over what to do in a difficult situation.###dilemma
+perplexity###Noun###inability to deal with or understand something.###	confusion, bewilderment
+dilemma###Noun###is a choice between several options that are equally unfavourable.###quandary
+swift###Adjective###happening quickly or promptly.###rapid,sudden
+salutary###Adjective###(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.###beneficial, good
+ephemeral###Adjective###lasting for a very short time.###transitory, temporary
+balk###Verb###hesitate or be unwilling to accept an idea or undertaking. / prevent
+thwart###Verb###prevent / oppose###foil,frustrate
+coherent###Adjective### logical and consistent.###rational
+rational###Adjective###based on or in accordance with reason or logic.###logical
+frivolous###Adjective###not having any serious purpose or value.###flippant
+whimsical###Adjective###playfully quaint or fanciful, especially in an appealing and amusing way.
+capricious###Adjective###given to sudden and unaccountable changes of mood or behaviour###unstable
+falter###Verb###lose strength or momentum. / speak hesistantly / move unsteadily or hesitantly.###hesitate,delay,stall, / fumble / 
+decisive###Adjective###settling an issue; producing a definite result.###deciding
+indecisive###Adjective###not providing a clear and definite result.###ambiguous
+dither###Verb###be indecisive.###vacillate
+vacillate###Verb###waver between different opinions or actions; be indecisive.###dither
+despair###Verb###the complete loss or absence of hope.###hopelessness
+ambivalent###Adjective###having mixed feelings or contradictory ideas about something or someone.
+deceive###Verb###deliberately cause (someone) to believe something that is not true, especially for personal gain.###cheat, swindle, defraud
+swindle###Verb###use deception to deprive (someone) of money or possessions.###defraud
+fraud###Noun### act of deception carried out for the purpose of unfair, undeserved and/or unlawful gain.
+defraud###Verb###illegally obtain money from (someone) by deception.###swindle
+resurrect###Verb###restore (a dead person) to life. / revive###restore,revitalize, revive
+erstwhile###Adjective###former
+pesky###Adjective###causing trouble; annoying.
+excerpt###Noun###a short extract from a film, broadcast, or piece of music or writing.###extract, part
+cull###Verb###reduce the population of (a wild animal) by selective slaughter.###slaughter, kill
+fiendish###Adjective###extremely cruel or unpleasant.###wicked, cruel, vicious
+diabolical###Adjective###characteristic of the Devil, or so evil as to recall the Devil.###devilish, fiendish
+anguish###Noun###severe mental or physical pain or suffering.###agony, pain (agony(physical only) vs anguish (physical and mental))
+agony###Noun###extreme physical or mental suffering.(More of physical)###anguish (agony(physical only) vs anguish (physical and mental))
+venerate###Verb###regard with great respect; revere.###revere (revere(for humans) vs venerate(for ancestors))
+revere###Verb###feel deep respect or admiration for (something).###venerate (revere(for humans) vs venerate(for ancestors))
+deluge###Noun###a severe flood / a great quantity of something arriving at the same time.### 
+impertinent###Adjective###not showing proper respect###rude, insolent
+pertinent###Adjective###relevant or applicable to a particular matter###apposite,appropriate,apt
+apposite###Adjective###apt in circumstances or in relation to something###appropriate,apt
+impudent###Adjective###not showing due respect for another person###impertinent,insolent
+audacious###Adjective###showing an impudent lack of respect / showing a willingness to take surprisingly bold risks###impudent,impertinent / bold,daring
+speculate###Verb###form a theory or conjecture about a subject without firm evidence.###conjecture
+wobble###Verb###Move unsteadily / waver between different courses of action###rock,jiggle / hesitate,vacillate,dither
+rhetoric###Noun###language designed to have a persuasive or impressive effect, but which is often regarded as lacking in sincerity or meaningful content.###bombast
+bombast###Noun###high-sounding language with little meaning, used to impress people.###bluster
+contempt###Noun###the feeling that a person or a thing is worthless or beneath consideration.###scorn,disdain (contemptuous - Adjective)
+ridicule###Noun###subject to contemptuous and dismissive language or behaviour.###mockery,derision
+derision###Noun###contemptuous ridicule or mockery.
+mockery###Noun###teasing and contemptuous language or behaviour directed at a particular person or thing.###ridicule,derision
+scorn(scornful - Adjective)###Noun###a feeling and expression of contempt or disdain for someone or something.###contemt, disdain
+disdain###Noun###the feeling that someone or something is unworthy of one's consideration or respect.###scorn,contempt
+inept###Adjective###having or showing no skill; clumsy.###incompetent,unskillful
+elicit###Verb###evoke or draw out (a reaction, answer, or fact) from someone.###obtain,extract
+absurd###Adjective###wildly unreasonable, illogical###preposterous, ridiculous
+preposterous###Adjective###contrary to reason or common sense; utterly absurd or ridiculous.###ludicrous
+etiquette###Noun###the customary code of polite behaviour in society or among members of a particular profession or group.###protocol
+inherent###Adjective###existing in something as a permanent, essential, or characteristic attribute.###intrinsic, innate
+slender###Adjective###(of person or part of body) gracefully thin / (of something abstract) barely sufficient in amount or basis.###slim,thin / meagre, limited
+deportment###Noun###the way a person stands and walks, particularly as an element of etiquette(behaviour)###gait, posture
+poise###Noun/Verb###graceful and elegant bearing in a person;a graceful way of walking, moving, standing, etc; a calm, confident manner / be or cause to be balanced or suspended; be ready and prepared to do something.###balance, equillibrium / 
+bearing###Noun###a person's way of standing or moving. / relation###posture, comportment / relevance
+comportment###Noun###behaviour, bearing
+equanimity###Noun###calmness and composure, especially in a difficult situation.
+elegance###Noun###the quality of being graceful and stylish in appearance or manner. / the quality of being pleasingly ingenious and simple; neatness.###style / 
+frigid###Adjective###very cold in temperature / (of a woman) unable to be sexually aroused and responsive. / stiff or formal in behaviour or style.###frozen / unresponsive / formal
+obtrusive###Adjective###noticeable or prominent in an unwelcome or intrusive way.###conspicuous, prominent
+conspicuous###Adjective###clear, visible or attracting notice or attention.###clear, visible,
+prudent###Adjective###acting with or showing care and thought for the future.###wise, sagacious
+sagacious###Adjective###having or showing keen mental discernment and good judgement; wise or shrewd.###wise, clever
+patent###Adjective###easily recognizable; obvious. / actual patent for innovation
+ludicrous###Adjective###so foolish, unreasonable, or out of place as to be amusing.###absurd, ridiculous, preposterous
+congruous###Adjective###in agreement or harmony###antonym:incongruous
+incongruous###Adjective###not in harmony or keeping with the surroundings or other aspects of something.
+subtle###Adjective###so delicate or precise as to be difficult to analyse or describe. or delicately complex and understated / making use of clever and indirect methods to achieve something.
+utopian###Adjective###modelled on or aiming for a state in which everything is perfect; idealistic.###unworldly
+quaint###Adjective###attractively unusual or old-fashioned.###picturesque
+picturesque###Adjective###visually attractive, especially in a quaint or charming way
+shrewd###Adjective###having or showing sharp powers of judgement; astute. / piercingly cold###astute, sharp-witted / 
+passible###Adjective###capable of feeling or suffering; susceptible to sensation or emotion.
+passable###Adjective###just good enough to be acceptable; satisfactory. / (of a route or road) clear of obstacles and able to be travelled on.###adequate / navigate
+persecution###Noun###hostility and ill-treatment, especially because of race or political or religious beliefs; oppression. / persistent annoyance or harassment.###oppression, victimization
+oppression###Noun###prolonged cruel or unjust treatment or exercise of authority. / the state of being subject to oppressive treatment. / mental pressure or distress.###persecution, abuse / persecution, abuse
+fickle###Adjective###changing frequently, especially as regards one's loyalties or affections.###(fickle vs capricious)
+connotation###Noun###an idea or feeling which a word invokes for a person in addition to its literal or primary meaning.
+unjust###Adjective###not based on or behaving according to what is morally right and fair.###biased, prejudiced
+overtone###Noun###a subtle or subsidiary quality, implication, or connotation / a musical tone which is a part of the harmonic series above a fundamental note, and may be heard with it.###connotation, implication / 
+implication###Noun###the conclusion that can be drawn from something although it is not explicitly stated.;a likely consequence of something. / the action or state of being involved in something.###suggestion, inference / involvement, connection
+cataclysm###Noun###a large-scale and violent event in the natural world;a sudden violent political or social upheaval.###disaster, catastrophe, calamity
+upheaval###Noun###a violent or sudden change or disruption to something.###disruption, upset, disturbance
+culpable###Adjective###deserving blame###guilty,blameworthy
+antedate###Verb###precede in time; come before (something) in date / indicate or discover that (a document, event, or word) should be assigned to an earlier date.###predate
+predate###Verb###exist or occur at a date earlier than (something).
+Pestilence###Noun###a fatal epidemic disease, especially bubonic plague.
+embodiment###Noun###a tangible or visible form of an idea, quality, or feeling.
+endemic###Adjective###(of a disease or condition) regularly found among particular people or in a certain area / (of a plant or animal) native or restricted to a certain place.
+pandemic###Adjective###(of a disease) prevalent over a whole country or the world.###widespread, pervasive, prevalent
+pervasive###Adjective###(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.###prevalent
+epidemic###Noun###a widespread occurrence of an infectious disease in a community at a particular time.###outbreak
+ailment###Noun###an illness, typically a minor one.
+manifest###Adjective###clear or obvious to the eye or mind.
+unwittingly###Adverb###without being aware; unintentionally.
+demean###Verb###cause a severe loss in the dignity of and respect for (someone or something).
+entangled###Verb###involve (someone) in difficulties or complicated circumstances from which it is difficult to escape.
+probably###Adverb###almost certainly; as far as one knows or can tell.
+perhaps###Adverb###used to express uncertainty or possibility.
+ephemera###Noun###things that exist or are used or enjoyed for only a short time.
+revoke###Verb###Officially Cancel
+evoke###Verb###Bring or recall
+ineffectual###Adjective###not producing any significant or desired effect.
+coax###Verb###persuade someone gradually to do something
+impair###Verb###weaken or damage
+menace###Noun###a person or thing that is likely to cause harm###hazard,threat
+apparition###Noun###a ghost or ghostlike image of a person.###spectre
+derogatory###Adjective###showing a critical or disrespectful attitude
+inveterate###Adjective###having a particular habit, activity, or interest that is long-established and unlikely to change.
+obscure###Adjective###Not discovered; uncertain / not clearly expressed or easily understood###unknown,hazy, vague / abstruse, recondite, arcane, esoteric
+bewilder###Verb###cause (someone) to become perplexed and confused.###baffle (baffle vs bewilder(cause incomprehension))
+baffle###Verb###totally bewilder or perplex.###perplex,bewilder (baffle("I understand the problem, but I am defeated by the puzzle".) vs bewilder)
+predicament###Noun###a difficult, unpleasant, or embarrassing situation.###crisis,quandary
+plight###Noun###a dangerous, difficult, or otherwise unfortunate situation.
+transitory###Adjective###Not permanent###temporary, ephemeral
+frustrate###Verb###prevent / cause (someone) to feel upset or annoyed as a result of being unable to change or achieve something.###thwart
+infuriate###Verb###make (someone) extremely angry and impatient.###enrage
+enrage###Verb###make (someone) very angry.###infuriate
+annoy###Verb###make (someone) a little angry; irritate.
+antagonize###Verb###cause (someone) to become hostile.###estrange
+estrange###Verb###cause (someone) to be no longer on friendly terms with someone.###antagonize
+hostile###Adjective###cause (someone) to be no longer on friendly terms with someone;showing or feeling opposition or dislike; unfriendly.###antagonize
+exasperate###Verb###irritate intensely; infuriate.
+vex###Verb###make (someone) feel annoyed, frustrated, or worried, especially with trivial matters.
+flippant###Adjective###not showing a serious or respectful attitude.###frivolous
+stammer###Verb###speak with sudden involuntary pauses and a tendency to repeat the initial letters of words.###Stutter
+Stutter###Verb###talk with continued involuntary repetition of sounds, especially initial consonants.###Stammer
+extravagant###Verb###lacking restraint in spending money or using resources.###lavish
+placid###Adjective###not easily upset or excited / calm and peaceful###calm
+imbue###Verb###inspire or permeate with (a feeling or quality).###permeate
+permeate###Verb###spread throughout (something); pervade.###pervade
+pervade###Verb###(especially of a smell) spread through and be perceived in every part of.###permeate
+vicious###Adjective###deliberately cruel or violent.###brutal
+vigor###Noun###active strength or force / healthy physical or mental energy or power; vitality.
+debilitate###Verb###make (someone) very weak and infirm.("he was severely debilitated by a stomach upset"); hinder, delay, or weaken.("hard drugs destroy families and debilitate communities")###weakening, enfeebling, enervating, enervative, devitalizing, draining, sapping; weaken, make weak
+incomprehension###Noun###failure to understand something
+comprehension###Noun###the ability to understand something.
+conceit###Noun###excessive pride in oneself
+gait###Noun###a person's manner of walking.
+strut###Verb###walk with a stiff, erect, and apparently arrogant or conceited gait.
+virility###Noun###the quality of having strength, energy, and a strong sex drive; manliness.
+solemn###Adjective###formal and dignified.
+demeanour###Noun###outward behaviour or bearing.###attitude, deportment
+subdued###Adjective### quiet and rather reflective or depressed.###sad, depressed
+subdue###Verb###overcome, quieten, or bring under control (a feeling or person).###conquer, defeat (different from adjective version(subdued))
+vanquish###Verb###defeat thoroughly.
+sane###Adjective###(of a person) of sound mind; not mad or mentally ill. / reasonable or sensible.
+sober###Adjective###not drunk or with self control / serious
+pompous###Adjective### solemn, or self-important###arrogant
+imperious###Adjective###arrogant and domineering.###arrogant
+yelp###Noun###a short, sharp cry, especially of pain or alarm.
+utter###Adjective/Verb###complete; absolute / make (a sound) with one's voice;say (something) aloud.###	complete, total, absolute, thorough / emit, let out, give, produce
+howl###Verb###weep and cry out loudly
+tender###Adjective###showing gentleness, kindness, and affection.
+dismay###Noun###concern and distress caused by something unexpected.
+appalling###Adjective###causing shock or dismay / bad or awful
+effeminate###Adjective###having characteristics regarded as typical of a woman; unmanly
+epicene###Adjective###having characteristics of both sexes or no characteristics of either sex; of indeterminate sex.###effeminate
+intricate###Adjective###very complicated or detailed.###complex, complicated
+insidious###Adjective###proceeding in a gradual, subtle way, but with very harmful effects. / intended to entrap or beguile
+whim###Noun###a sudden desire or change of mind, especially one that is unusual or unexplained.
+impetuous###Adjective###acting or done quickly and without thought or care.###impulsive, imprudent
+imprudent###Adjective###not showing care for the consequences of an action; rash.
+gratify###Verb###give (someone) pleasure or satisfaction.
+embark###Verb###go on board a ship or aircraft. / begin (a course of action).###start, begin, commence (disembark -- antonym)
+galvanize###Verb###shock or excite (someone) into taking action. / coat (iron or steel) with a protective layer of zinc.###jolt, shock
+bellow###Verb###shout something with a deep loud roar. / sing (a song) loudly and tunelessly.###bawl
+bellow###Noun###a deep roaring shout or sound.
+proclaim###Verb###announce officially or publicly. / indicate clearly
+bawl###Verb###shout or call out noisily and unrestrainedly. / weep or cry noisly###bellow
+bawl###Noun###a loud, unrestrained shout.###bellow
+haste###Noun###excessive speed or urgency of movement or action; hurry.###speed,hurry
+repent###Verb###feel or express sincere regret or remorse about one's wrongdoing or sin.###regret
+penitence###Noun###the action of feeling or showing sorrow and regret for having done wrong; repentance.###repentance, regret
+conducive###Adjective###making a certain situation or outcome likely or possible.
+awkward###Adjective###causing difficulty; hard to do or deal with. / causing or feeling uneasy embarrassment or inconvenience.###difficult,tricky / embarrassment,uncomfortable,unpleasant
+presume###Verb###suppose that something is the case on the basis of probability. / be arrogant or impertinent enough to do something.###assume,suppose / venture,dare
+arrogant###Adjective###having or revealing an exaggerated sense of one's own importance or abilities.###haughty
+bourse###Noun###a stock market in a non-English-speaking country, especially France.
+prospective###Adjective###expected or expecting to be the specified thing in the future.(expected to happen in future)###probable,likely
+stall###Verb### stop running, typically because of an overload on the engine / stop or cause to stop making progress.###same Noun exists(a small shop)
+haughty###Adjective###arrogantly superior and disdainful.###proud,arrogant,vain
+vain###Adjective###having or showing an excessively high opinion of one's appearance, abilities, or worth. / producing no result or useless###	conceited, narcissistic / futile,useless
+narcissistic###Adjective###having or showing an excessive interest in or admiration of oneself and one's physical appearance.
+conceited###Adjective###excessively proud of oneself; vain.###	vain, narcissistic
+fumble###Noun###an act of doing or handling something clumsily.###	fondle, grope, caress;same verb exists
+caress###Verb###touch or stroke gently or lovingly.###touch,stroke,fondle
+fondle###Verb###stroke or caress lovingly or erotically.###caress,stroke
+grope###Verb###search blindly or uncertainly by feeling with the hands. / fondle (someone) for sexual pleasure roughly or clumsily, or without the person's consent.###fumble,scrabble / fondle,touch
+scrabble###Verb###scratch or grope around with one's fingers to find, collect, or hold on to something; to move the hands or feet in an awkward and hurried way in order to find or do something. ("She scrabbled around in her handbag for a pen.")###scratch,grope
+refrain###Verb###Stop oneself from doing something###abstain,desist
+desist###Verb###stop doing something; cease or abstain.###abstain,refrain
+restrain###Verb###prevent or keep undercontrol###prevent,stop
+abstain###Verb###restrain oneself from doing or enjoying something. / formally decline to vote either for or against a proposal or motion.###refrain, desist / vote
+tumbleweed###Noun###who is shiftless and always on the move and at the whim of the "wind" or other external force, not because of their own motivation.
+abstemious###Adjective###indulging only very moderately in something, especially food and drink.
+pith###Noun###the essence of something.###quintessence
+quintessence###Noun###the most perfect or typical example of a quality or class. / important / a refined essence or extract of a substance.
+vitality###Noun###the state of being strong and active; energy.
+babble###Verb###talk rapidly and continuously in a foolish, excited, or incomprehensible way.
+nuance###Noun###a subtle difference in or shade of meaning, expression, or sound.
+immanent###Adjective###existing or operating within; inherent.
+repurcussion###Noun###an unintended consequence of an event or action, especially an unwelcome one
+endearing###Adjective###inspiring affection.
+deprecate###Verb###express disapproval of / another term for depreciate
+indulge###Verb###allow oneself to enjoy the pleasure of. / involve
+eccentric###Noun###a person of unconventional and slightly strange views or behaviour.###oddity
+encompass###Verb###surround and have or hold within.###surround
+discord###Noun###disagreement between people.
+artifice###Noun###clever or cunning devices or expedients, especially as used to trick or deceive others.
+stratagem###Noun###a plan or scheme, especially one used to outwit an opponent or achieve an end.
+contrive###Adjective / Verb###deliberately created rather than arising naturally or spontaneously; created or arranged in a way that seems artificial and unrealistic / create or bring about (an object or a situation) by deliberate use of skill and artifice or plan or trick  contrive ways of handling the situation /  to bring about by stratagem or with difficulty###forced,strained / create, engineer / manage
+fidget###Verb###make small movements, especially of the hands and feet, through nervousness or impatience.
+fiddle###Verb###touch or fidget with something in a restless or nervous way. / falsify (figures, data, or records), typically in order to gain money###fidget / falsify
+disregard###Verb###pay no attention to; ignore.###ignore
+waive###Verb###refrain from insisting on or using (a right or claim). / refrain from demanding compliance with (a rule or fee).
+relinquish###Verb###voluntarily cease to keep or claim; give up.
+renounce###Verb###Formally declare one's abandonment of (a claim, right, or possession) / Refuse to continue to recognize or abide by. / reject or abandon / refuse or resign a right or position, especially one as an heir or trustee.refuse or resign a right or position, especially one as an heir or trustee.
+juxtaposition###Noun###the fact of two things being seen or placed close together with contrasting effect. / side by side  contrast
+repressive###Adjective###inhibiting or restraining personal freedom. / inhibiting or preventing the expression or awareness of thoughts or desires.###	oppressive, authoritarian, despotic, tyrannical, / 
+despot###Noun###a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.###tyrant
+pedant###Noun###a person who is excessively concerned with minor details and rules or with displaying academic learning.
+enervate###Verb###make (someone) feel drained of energy or vitality.###exhaust, tire, fatigue
+onerous###Adjective### involving a great deal of effort, trouble, or difficulty.
+malodorous###Adjective###smelling very unpleasant.###foul-smelling
+odious###Adjective###extremely unpleasant; repulsive.###revolting
+reverent###Adjective###feeling or showing deep and solemn respect.
+sombre###Adjective###dark or dull in colour or tone. / having or conveying a feeling of deep seriousness and sadness.###dark / 	solemn, earnest, serious
+earnest###Adjective###resulting from or showing sincere and intense conviction.###serious
+jaded###Adjective###bored or lacking enthusiasm, typically after having had too much of something. / physically tired or exhausted
+apprehension###Noun###anxiety or fear that something bad or unpleasant will happen. / understanding or grasp###anxiety / understanding
+awe###Noun###a feeling of reverential respect mixed with fear or wonder.
+vehement###Adjective###showing strong feeling; forceful, passionate, or intense.###passionate,forceful
+rage###Noun###violent uncontrollable anger. / a vehement desire or passion.###temper,tantrum / craze,passion
+loathing###Noun###a feeling of intense dislike or disgust; hatred.
+revulsion###Noun###a sense of disgust and loathing.###disgust, repulsion
+purse###Verb###(with reference to the lips) pucker or contract, typically to express disapproval or irritation.
+pucker###Verb###(especially with reference to a person's face) tightly gather or contract into wrinkles or small folds.
+expedient###Adjective###(of an action) convenient and practical although possibly improper or immoral. / suitable or appropriate###convenient or advantageous / 
+horrendous###Adjective###extremely unpleasant, horrifying, or terrible.
+readily###Adverb###without hesitation or reluctance; willingly.
+faucet###Noun###a tap
+circumvent###Verb###find a way around (cleverly or illegally)###avoid,evade
+ingenuity###Noun###The quality of being clever, original and inventive###creativity, originality
+outwit###Verb###deceive by greater ingenuity.###outsmart, out-think
+comprehend###Verb###grasp mentally, understand###understand, grasp, apprehend
+apprehend###Verb### arrest for a crime / understand or perceive###arrest,catch / understand, comprehend, grasp
+perceive###Verb###become aware or consious of something or realize / interpret or regard something in a particular way###recognize,discern,grasp / regard
+discern###Verb###recognize or find out###perceive,detect
+discern###Adjective###showing good judgement
+obligation###Noun###an act or course of action to which a person is morally or legally bound; a duty or commitment / a debt of gratitude for a service or favour###duty, commitment / contract,agreement,deed,covenant
+covenant###Noun###an agreement###contract,treaty
+purport###Verb/Noun###appear to be or do something;claim falsely / the meaning or sense of something(document or speech)###pretend,profess / essence,gist
+gist###Noun###the substance or general meaning of a speech###essence,substance
+profess###Verb###claim (often falsely)
+allegiance###Noun###loyalty or commitment
+prejudice###Noun###preconceived opinion that is not based on reason or actual experience###preconception
+sway###Verb###move or cause to move back and forth in a rythm / control or influence###swing,oscillate / influence,bias
+farce###Noun### a comic dramatic work using buffoonery/ an event that is absurd or ridiculous 
+barrage###Noun###an artillery bombardment / artificial barrier on a river / overwhelming number of questions
+profusion###Noun###an abundance of something###abundance, lot
+evangelize###Verb###Convert or seek to convert to Christianity
+insolent###Adjective###showing a rude and arrogant lack of respect###impertinent,impudent
+conjecture###Noun###an opinion formed on basis of incomplete info###guess, speculation
+waver###Verb###move in a quivering way / become weaker;falter###flicker,quiver / flater,wobble
+bombast###Noun###high-sounding language with little meaning, used to impress people
+bestial###Adjective###like an animal / savagely cruel and depraved
+depraved###Adjective###morally corrupt, wicked
+incapacitated###Adjective###deprived of strength or power;debiliated
+monetize###Verb###convert into the form of currency / earn revenue from asset,business,etc
+versatile###Adjective###able to adapt to different functions or activities / changeable###adaptable
+mitigate###Verb###make less severe or painful / lessen the gravity of ###reduce,diminish,alleviate
+alleviate###Verb###make less severe###reduce
+aggravate###Verb###make worse or more serious / annoy or exasperate
+exasperate###Verb###irritate intenlsy; infuriate
+obscure###Adjective###not discovered or uncertain / not clearly expressed###unclear,abstruse,recondite
+recondite###Adjective###little known; abstruse###obscure,abstruse
+abstruse###Adjective###difficult to understand###obscure,arcane
+arcane###Adjective###understood by few, mysterious or secret###secret,covert
+rant###Verb###speak or shout at length in an angry, impassioned way###bluster
+bluster###Verb###talk in a loud, aggressive indignant way###rant
+fuddle###Verb###confuse or stupefy###befuddle
+befuddle###Verb###cause to become unable to think clearly###fuddle,confused
+pretentious###Adjective###attempting to impress by affecting greater importance or merit than is actually possessed###ostentatious
+ostentatious###Adjective###characterized by pretentious or showy display; designed to impress###pretentious
+curator###Noun###A keeper or custodian of a museum or other collection
+abstract###Adjective / Verb / Noun###existing in thought or as an idea but not having a physical or concrete existence / extract or remove (something). / a summary of the contents of a book, article, or speech.###theoretical,conceptual
+contortionist###Noun###An entertainer who twists and bends their body into strange and unnatural positions
+venture###Noun/Verb###A risky or daring undertaking or journey / undertake a risky or daring action; dare to do or say something### / proffer
+proffer###Verb/Noun###hold out to someone for acceptance / an offer or proposal
+refute###Verb###prove someone or something is wrong###confute
+confute###Verb###prove to be wrong###refute
+rebut###Verb###claim or prove that (evidence or an accusation) is false
+ecstacy###Noun###an overwhelming feeling of great happiness or joyful excitement / involving an experience of mystic self transcendence
+transcendence###Noun###existence or experience beyond the normal or physical level
+premise###Noun/Verb###a previous statement or proposition from which another is inferred / base an argument on###("reforms were premised on our findings")
+ponder###Verb### think about carefully especially before a decision###review,consider
+insinuate###Verb###suggest in an indirect and unpleasant way / manoeuvre oneself into (a favourable position) by subtle manipulation###imply,hint,suggest / work one's way into
+acquaint###Verb###make someone aware of or familiar with / know someone slightly
+steward###Noun###a person employed to look after the passengers on  a ship/aircraft or train / responsible for supplies of food to college, club###flight attendant
+steward###Verb### supervise arrangements or keep order at / manage or look after (others property)
+menial###Adjective###not requiring much skill and lacking prestige### unskilled
+trudge###Verb###walk slowly and with heavy steps cause of exhaustion or harsh conditions###plod
+plod###Verb###walk doggedly and slowly with heavy steps###trudge,clomp
+clomp###Verb###walk with a heavy tread
+clump###Noun###a small group of trees of plants growing closely together / a small,compact group of people###cluster,thicket,group
+thicket###Noun###a dense group of bushes or trees
+tenacity###Noun###quality of being able to grip something firmly / quality of being very determined;determination###persistence,determination,perserverance
+doggedly###Adverb### in a manner that shows tenacity and grim persistence
+grim###Adjective###very serious or gloomy / unattractive or forbidding###bleak,unfriendly
+stern###Adjective###serious and unrelenting / strict and severe ###serious,strict,severe
+tramp###Verb/Noun###walk heavily or noisly / a person who travels from place to place on foot in search of work or as a vagrant or beggar.###trudge,stamp, plod / 
+perch###Verb### rest on something / sit on something high or narrow / balance someone or something on ###sit,rest / balance
+alight###Verb###descend from a tain,bus or other form of transport###get off
+metropolis###Noun###the capital or chief city of a country or region
+precarious###Adjective###not securely held or in position; dangerously likely to fall or collapse###uncertain,insecure,inreliable
+girder###Noun###large iron or steel beams used for building frameworks for large buildings or bridges
+tut tut###Verb###make an exclamation expressing disapproval or annoyance
+elegant###Adjective###graceful and stylish in appearance / pleasingly ingenious and simple(solution to problem)###stylish,discerning / neat,simple,effective
+outrageous###Adjective###shockingly bad or excessive or improbable, widly exaggerated/ very bold and unusual and rather shocking###atrocious,shocking,unlikely / eye-catching,flamboyant
+atrocious###Adjective###horrifyingly wicked / of very poor quality;extremely bad or unpleasant###brutal / appalling,dreadful,terrible
+flamboyant###Adjective###tending to attract attention because of their exuberance, confidence and stylishness or bright, very noticeable###exuberant,confident,ostentatious
+exuberant###Adjective###full of energy,excitement and cheerfulness###cheerful,ebullient
+ebullient###Adjective###cheerful and full of energy###exuberant,buoyant
+buoyant###Adjective###cheerful and optimistic / able to keep float / (of an economy,business or market) involving or engaged in much successful trade
+contention###Noun###heated disagreement / an assertion, especially maintained in argument###dispute / claim,argument
+callous###Adjective###showing or having an insensitive and cruel disregard for others###heartless,unfeeling,uncaring
+contrarian###Adjective###Someone one who opposes to popular opinion or current paractice
+antagonist###Noun###a person who actively opposes or is hostile to someone or something###adversary,opponent
+practice###Noun###actual application of an idea,belief###vs practise(Verb)
+practise###Verb###perform repeatedly###vs practice(Noun)
+embargo###Noun###official ban on trade or commercial activity with a particular country###Verb is also same meaning
+brood###Verb###think deeply about something that makes one unhappy, angry or worried
+brim###Verb###be full to the point of overflowing###Ex: a brimming cup 
+caustic###Adjective###Sarcastic in a scathing and bitter way
+withering###Adjective###intended to make someone feel humiliated; scornful###contemptous,mocking
+scathing###Adjective###witheringly scornful; severely critical.###devastating,withering
+wit###Noun###the capacity for inventive and quick understanding / inventive way to create humour###intelligence / humour
+acuity###Noun###sharpness or keenness of thought, vision or hearing
+quirky###Adjective### having or characterized by peculiar or unexpected traits or aspects###eccentric
+eccentric###Adjective###unconventional and slightly strange
+grovel###Verb###lie or crawl abjectly on the ground with one's face downwards. / act obsequiously in order to obtain forgiveness or favour.###crawl,cringe / obsequious
+obsequious###Adjective###obedient or attentive to an excessive or servile degree.###servile
+apprehension###Noun###anxiety or fear that something bad or unpleasant will happen. / understanding or grasp
+servile###Adjective###having or showing an excessive willingness to serve or please others.
+sordid###Adjective###involving immoral or dishonourable actions and motives / dirty or squalid
+squalid###Adjective###extremely dirty and unpleasant / showing a contemptible lack of moral standards###dirty, filthy / improper,sordid
+titular###Adjective###holding or constituting a purely formal position or title without any real authority.
+nominal###Adjective###existing in name only / very small###titular,formal
+protagonist###Noun###leading character in a movie / advocate or champion of a cause###supporter,promoter
+decimate###Verb###kill,destroy or remove a large proportion of (inhabitants)
+innuendo###Noun###an allusive or oblique remark or hint, typically a suggestive or disparaging one.###insinuation,hint
+insinuation###Noun###an unpleasant hint or suggestion of something bad.
+allusive###Adjective###using or containing suggestion rather than explicit mention.
+oblique###Adjective###not expressed or done in a direct way. / neither parallel nor perpendicular
+disparaging###Adjective###expressing the opinion that something is of little worth; derogatory.
+vivid###Adjective###producing powerful feelings or strong, clear images in mind / intensely deep or bright
+ricochet###Verb###rebound off a surface
+squish###Verb###make a soft squelching sound when walked on or in
+squelch###Verb###make a soft sucking sound / forcefully silence or suppress.
+entice###Verb###attract or tempt by offering pleasure or advantage###tempt,allure,lure
+allure###Noun###the quality of being powerful and mysteriously attractive or fascinating###lure,draw,pull(allure(quality) to be allured is verb vs lure(Verb))
+binge###Verb###indulge in an activity, especially eating, to excess.###Same Noun exists
+unnverve###Verb###make (someone) lose courage or confidence###demoraliize,discourage
+lumbar###Adjective###Relating to lower part of back
+profuse###Adjective###(especially of something offered or discharged) very plentiful; abundant.###abundant,prolific,copious
+copious###Adjective###abundant in supply or quantity.###plentiful,abundant
+prolific###Adjective###present in large numbers or quantities; plentiful.###bountiful,profuse
+bragging###Noun###Excessively proud and boastiful talk about one's achievements or possessions###boast
+boast###Verb###talk with excessive pride and self-satisfaction about one's achievements, possessions, or abilities.###brag
+blurb###Noun###a short description of a book or a film or other product written for promotional purposes### Same Verb exists
+intervention###Noun### action of intervening / an occasion on which a person with an addiction or other behavioural problem is confronted by a group of friends or family members in an attempt to persuade them to address the issue.
+exacting###Adjective###making great demands on one's skill, attention, or other resources.###demanding
+exact###Verb###demand and obtain (something) from someone / inflict(revenge) on someone###inflict, impose
+cologne###Noun### scented toilet water / fragrant oil
+devour###Verb###eat (food or prey) hungrily or quickly / read quickly and eagerly###Consume,swallow
+devoid###Adjective###entirely lacking or free from.###lacking,without
+supererogatory###Adjective###going beyond the requirements of duty / greater than that required or needed;
+instigate###Verb###bring about or initiate (an action or event). / incite someone to do something, especially something bad.###start,begin,initiate / encourage,incite
+incite###Verb###encourage or stir up (violent or unlawful behaviour). / urge or persuade (someone) to act in a violent or unlawful way.###inflame,provoke,instigate
+inflame###Verb###provoke or intensify (strong feelings, especially anger) in someone. / cause inflammation###incite,arouse
+deter###Verb###discourage (someone) from doing something by instilling doubt or fear of the consequences. / prevent the occurrence of###dissuade / block,intercept
+dissuade###Verb###persuade (someone) not to take a particular course of action.###discourage,deter
+crooked###Adjective###bent or twisted out of shape or place / dishonest;illegal###bent,curved / criminal,illegal
+hiatus###Noun###a pause or break in continuity in a sequence###pause,break
+cameo###Noun###a piece of jewellery / a short descriptive literary sketch which encapsulates someone or something
+whine###Verb###give or make a long,high-pitched complaining cry or sound / complain in a feeble or petulant way###hum,drone / grouse,grouch
+grumpy###Adjective###bad-tempered and sulky
+sulky###Adjective###morose, bad-tempered and resentful;refusing to be cheerful;refusing to smile or be pleasant to people, usually because you are angry about something
+sullen###Adjective###bad-tempered and sulky; angry and unwilling to smile or be pleasant to people;silent and unpleasant###sulky,morose
+morose###Adjective###sullen and ill-tempered;unhappy or sad, annoyed, and unwilling to speak or smile###sullen,sulky,bad-tempered
+resentful###Adjective###feeling or expressing bitterness or indignation at having been treated unfairly###aggrieved,indignant,irritated,disgruntled
+indignant###Adjective###feeling or showing anger or annoyance at what is perceived as unfair treatement###aggrieved,resentful,disgruntled
+disgruntled###Adjective###angry or dissatisfied###discontented,aggrieved
+discontented###Adjective###dissatisfied,especially with one's circumstances###dissatisfied,discontented
+aggrieved###Adjective###Feeling resentment at having been unfairly treated###resentful,indignant
+vex###Verb###make (someone) feel annoyed, frustrated or worried###annoy,irritate,infuriate
+vexed###Adjective###difficult and much debated;problematic / annoyed,frustrated or worried###questionable,unresolved / annoyed,irritated
+grumble###Verb / Noun###complain about something in a bad-tempered way;make a low rumbling sound / a complaint.###complain;rumble / 
+grouch###Noun###a habitually grumpy person
+grouch###Verb##voice one's disontent ill-temperedly;grumble###grumble,complain,grouse
+grouse###Verb###complain about something trivial###grumble,complain
+commensurate###Adjective###corresponding in size or degree; in proportion###equivalent,equal,corresponding
+fray###Verb###(of a fabric,rope) unravel or become worn at the edge,typically through constant rubbing###unravel,wear
+unravel###Verb###undo ; become undone / investigate and solve or explain###untangle,disentangle / solve,resolve
+dab###Verb### to drop bait or fish by dropping bait gently on the water 
+savour###Verb###taste and enjoy it to the full / have a suggestion or trace of###relish,enjoy / suggest
+plum###Noun###A fruit (informal:a thing,typically a job,considered to be highly desirable)
+commissary###Noun###a deputy or delegte / a restaurant or food store in military base,prison or other institution
+bedazzle###Verb###greatly impress with outstanding ability / make (someone) unable to think clearly
+relive###Verb###live through again in one's imagination or memory
+stutter###Verb###talk with continued involuntary repetition of sounds, especially initial consonants###stammer(Same noun exists)
+incursion###Noun###an invasion or attack, especially a sudden or brief one
+foray###Noun###a sudden attack or incursion into enemy territory,especially to obtain something###raid,attack,assault,incursion
+finesse###Noun###impressinve delicacy and skill###skill,subtlety,expertise
+panache###Noun###flamboyant confidence of style or manner
+flair###Noun###a special or instinctive aptitude or ability for doing something well. / stylishness and originality###aptitude,talent,gift / style,panache
+canoodle###Verb###kiss and cuddle amorously
+amorous###Adjective###showing, feeling, or relating to sexual desire.
+salvage###Verb###rescue from loss at sea###rescue,save,recover; same Noun exists
+cynical###Adjective###concerned only with own interests and typically disregarding accepted standards in order to achieve them / doubtful as to whether something will happen### / doubtful,distrustful
+flap###Verb###of a bird move up and down when flying / agitated or panicky###panic,fuss
+fuss###Noun###a display of unnecessary or excessive excitement, activity, or interest. / a protest or dispute of a specified degree / trouble or difficulty### ado,excitement,agitation / protest,complaint / bother,trouble,inconvenience
+agitate###Verb###make (someone) troubled or nervous / stir or disturb / campaign to arouse public cooncern###upset,perturb,fluster / stir,whisk / campaign,battle
+whisk###Verb###take or move (someone) somewhere suddenly / beat or stir with###speed, hurry / whip, beat
+perturb###Verb###make(someone) anxious or unsettled / subject to an influence  tending to alter its normal state###worry,upset / 
+fluster###Verb###make (someone) agitated or confused###unsettle,unnerve
+unnerve###Verb###make (someone) lose courage or confidence###demoralize,discourage
+acclimatize###Verb###become accustomed to a new climate or new conditions;adjust/ adjust,adapt
+acclamation###Noun###loud and enthusiastic approval###praise,applause
+chronic###Adjective###(of an illness) persisting for a long time or constantly recurring; having a bad habbit / of a very poor quality###persistent;inveterate
+acute###Adjective###present or experienced to a severe or intense degree / having or showing a perceptive understanding or insight; shrewd / less than 90###severe,critical / shrewd,sharp
+shrewd###Adjective###having sharp powers of judgement;astute###astute,sharp-witted,sharp
+sharp-witted###Adjective###quick to notice and understand things
+astute###Adjective###having or showing an ability to accurately assess situations or people and turn this to one's advantage.###shrewd,sharp
+snort###Noun###an explosive sound made by the sudden forcing of breath hrough one's nose, used to express indignation, derision, or incredulity.;snore vs snort
+incredulity###Noun###the state of being unwilling or unable to believe something.###disbelief,dubiety
+dubiety###Noun###the state or quality of being doubtful; uncertainity
+gallivant###Verb### go around from one place to another in the pursuit of pleasure of entertainment###flit,jaunt,gad
+gad###Verb###go from place to place in the pursuit of pleasure###gallivant
+jaunt###Verb###go on a short journey for pleasure###trip,outing,excursion;same Noun exists
+flit###Verb###move swiftly and lightly###dart,dance,dash
+dart###Verb###move or run somewhere suddenly or rapidly;cast(a look or one's eyes) suddenly and rapidly in a particular direction###direct,cast,throw
+fling###Verb/Noun###throw or hurl forcefully / a short period of enjoyment or wild behaviour.###throw,toss / 
+pummel###Verb###strike repeatedly with the fists
+hurtle###Verb###move or cause to move at high speed, typically in an uncontrolled manner.###speed,rush,race
+fringe###Noun###an ornamental border / the front part of a person's hair / the outer, marginal or extreme part of a group###edging,border,hem / / unconventional,offbeat; same Verb exists(form a border around something)
+stagger###Verb###walk or move unsteadily as if about to fall / astonish or deeply shock / arrange so that they don't overlap or in zigzag fashion###lurch,sway / astonish,amaze / 
+amaze###Verb###surprise greatly###astonish,astound,bewilder,surprise
+astonish###Verb###surprise or impress greatly###amaze,astound,stagger
+astound###Verb###shock or greatly surprise###amaze,astonish,stagger
+amuse###Verb###cause to find something funny / provide interesting and enjoyable occupation for someone;entertain### / entertain,delight
+contort###Verb###twist or bend out of the normal shape###twist,bend
+beguile###Verb###charm or enchant often in a deceptive way / help (time) pass pleasantly###charm,attract,enchant / entertain,amuse
+lurch###Verb / Noun###make an abrupt, unsteady, uncontrolled movement or series of movements;stagger / leave an associate or friend abruptly and without assistance or support when they are in a difficult situation.###stagger,stumble,sway / desert or betray
+loiter###Verb###stand or wait around without apparent purpose###linger,skulk
+shirk###Verb###avoid or neglect###evade,dodge,avoid
+skulk###Verb###keep out of sight, typically with a sinister or cowardly motive; move stealthily or furtively###lurk,loiter,hide
+furtive###Verb###attempting to avoid notice or attention typically because of guilt###secretive,surreptitious
+surreptitious###Adjective###kept secret especially because it would not be approved of###secret,stealthy
+linger###Verb###stay in a place longer than necessary because of a reluctance to leave / spend a long time over something / be slow to disapper or die###stay,remain / / persist,continue
+plummet###Verb###fall or drop straight down at high speed / decrease rapidly in value or amount###plunge
+plunge###Verb###jump or dive quickly; fall suddenly and uncontrollably (value) / push or thrust quickly;quickly immerse in liquid###jump,dive,crash,plummet / immerse,submerge
+discordant###Adjective###disagreeing or incongruous###contradictory,contrary
+cacophony###Noun###a harsh discordant mixture of sounds###noise,discord
+discord###Noun###disagreement between people / lack of harmony between notes sounding together(muzic)###conflict,friction / dissonance,disharmony
+dissonance###Noun###lack of harmony among musical notes###cacophony
+strife###Noun###angry or bitter disagreement over fundamental issues;conflict###conflict,friction,discord
+jarring###Adjective###incongruous in a striking or shocking way / causing a physical shock, jolt or vibration
+dissident###Noun###a person who opposes official policy, especially that of an authotitarian state###objector,protester,dissenter
+blatant###Adjective###done openly and unashamed(of bad behaviour)###flagrant,glaring ,obvious
+flagrant###Adjective###conspicuously or obviously offensive.###blatant,glaring,obvious
+frontier###Noun###a line or border separating two countries / an undeveloped field of study; a topic inviting research and development### / border,boundary,partition
+wilderness###Noun###An uncultivated,uninhabitated and inhospitable region###
+frown###Verb###furrow one's brows in an expression indicating disapproval, displeasure or concentration###scowl,glower
+glower###Verb###have an angry or sullen look on one's face###scowl,glare
+glare###Verb###stare in an angry or fierce way / shine(sun or electric light) with a strong dazzling light###scowl,glower / blaze
+scowl###Noun###an angry or bad-tempered expression###frown,glower,glare; same Verb exists
+sullen###Adjective###bad-tempered and sulky###surly,sulky
+surly###Adjective###bad-tempered and unfriendly###bad-tempered,ill-natured
+sulky###Adjective###morose,bad-tempered and resentful;refusing to be cooperative and cheerful###sullen,surly
+Portmanteau###Noun###a large travelling bag, typically made of stiff leather and opening into two equal halves / a word blending the sounds and combining meanings of two others####
+sloshed###Adjective###drunk
+adorn###Verb###make beautiful or attractive("pictures and prints adorned his walls")###embellish, decorate
+embellish###Verb###make (something) more attractive by the addition of decorative details or features.###decorate
+dearth###Noun###a scarcity or lack of something###
+cohort###Noun###a group of people with a shared characteristic###
+slog###Verb###work hard over a period of time / hit forcefully and typically wildly, especially in boxing or cricket.###toil,labour /
+toil###Verb###work extremely hard or incessantly / move slowly and with difficulty###labour / struggle,labour
+incessant###Adjective###(of something regarded as unpleasant) continuing without pause or interruption.###ceaseless,unceasing,constant
+shout out###Noun###a mention, credit, or greeting, typically one made over the radio or during a live performance.
+qualm###Noun###an uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving.###	misgiving, doubt, reservation, second thought, worry, concern
+oblivious###Adjective###not aware of or concerned about what is happening around one###unaware,unconsious
+stature###Noun###a person's natural height / importance or reputation gained by ability or achievement###height / reputation
+tantrum###Noun###an uncontrolled outburst of anger and frustration, typically in a young child.
+con###Verb###persuade (someone) to do or believe something by lying to them###same Noun exists
+infidelity###Noun###the action or state of being unfaithful to a spouse or other sexual partner.
+quaver###Verb###shake or tremble in speaking, typically through nervousness or emotion###tremble,quiver
+trill###Verb###produce a quavering or warbling sound.###warble,same Noun exists
+warble###Verb###(of a bird) sing softly and with a succession of constantly changing notes.###trill,chirp
+onus###Noun###something that is one's duty or responsibility###burden,responsibility
+concertina###Verb###extend, compress, or collapse in folds like those of a concertina.###same Noun exists--meaning a musical instrument
+scum###Noun###a layer or dirt or froth on the surface of a liquid###film,layer;same verb exists
+bollocks###Noun###the testicles / nonsense;rubbish
+ranch###Noun###a large farm,especially in North America or Australia, where cattle or other animals are bred
+smear###Verb###coat or mark messily or carelessly with grease or sticky substance / damage the reputation of (someone) by false accusations;slander###streak,smudge,stain / sully,tarnish,besmirch;same Noun exists
+besmirch###Verb###damage (someone's reputation)###sully,tarnish,blacken
+eponymous###Adjective###(of a person) giving their name to something.
+smudge###Verb###cause (something) to become messily smeared by rubbing it###streak,mark,dirty
+streak###Noun###a long, thin line or mark of a different substance or colour from its surroundings. / an element of a specified kind in someone's character###line,stripe / trace;Verb exists
+streak###Verb###cover with streaks / move very fast in a specified direction###stripe / race,dash
+slather###Verb###spread or smear thickly or liberally
+sludge###Noun###thick, soft, wet mud or a similar viscous mixture of liquid and solid components###mud,muck,mire
+muck###Noun###dirt,rubbish or waste matter###dirt,filth,grime
+grime###Noun###dirt ingrained on the surface of something###dirt,smut,soot
+ingrained###Adjective###firmly fixed or established;difficult to change###entrenched,established
+entrench###Verb###establish(an attitude, habit or belief) so firmly that change is very difficult or unlikely###establish,settle,ensconce
+ensconce###Verb###establish or settle in a comfortable,safe place###settle,install,establish,park
+extricate###Verb###free (someone or something) from a constraing or difficulty###extract or free
+smut###Noun###a small flake of soot or other dirt or a mark left by one / obscene or lasivious talk, writing or pictures
+overt###Adjective###done or shown openly;plainly apparent###unconcealed
+lascivious###Adjective###feeling or revealing an overt sexual interest or desire###lecherous,lewd,lustful
+lewd###Adjective###crude and offensive in a sexual way###vulgar,crude,smutty,dirty
+vulgar###Adjective###lacking sophistication or good taste / making explicit and offensive reference to sex or bodily functions; coarse and rude.###tasteless,gross,crass / rude,indecent
+crass###Adjective###showing no intelligence or sensitivity###stupid,insensitive
+lecherous###Adjective###having or showing excessive or offensive sexual desire###lustful,lascivious,licentious,libidinous
+licentious###Adjective###promiscuous and unprincipled in sexual matters.###dissolute,dissipated
+dissolute###Adjective###(of a person or a way of life) overindulging in sensual pleasures.###dissipated,debauched
+debauched###Adjective###indulging in or characterized by excessive indulgence in sex, alcohol, or drugs.###dissolute,dissipated
+dissipated###Adjective###(of a person or way of life) overindulging in sensual pleasures.###dissolute,debauched,decadent;same Verb has different meaning
+decadent###Adjective###characterized by or reflecting a state of moral or cultural decline.###dissolute,dissipated,corrupt
+libidinous###Adjective###showing excessive sexual drive; lustful.###lustful,lecherous,lascivious,lewd
+self-indulgent###Adjective###characterized by doing or tending to do exactly what one wants, especially when this involves pleasure or idleness.###hedonistic,sybaritic
+hedonistic###Adjective###engaged in the pursuit of pleasure; sensually self-indulgent.###self-indulgent
+sybaritic###Adjective###fond of sensuous luxury or pleasure; self-indulgent.###hedonistic
+hone###Verb###sharpen / refine or perfect over a period of time###sharpen / 
+circuitous###Adjective###(of a route or journey) longer than the most direct way###roundabout,indirect
+treble###Adjective/Noun/Verb###consisting of three parts; threefold.
+consolidate###Verb###make (something) physically stronger or more solid / combine (a number of things) into a single more effective or coherent whole / combine,unite,merge
+malevolent###Adjective###having or showing a wish to do evil to others.###malicious,spiteful
+spite###Noun###a desire to hurt, annoy, or offend someone.###malice
+malice###Noun###the desire to harm someone; ill will.###spite,malevolence
+heed###Verb###pay attention to;take notice of###notice,consider;same Noun exists
+implore###Verb###beg someone earnestly or desperately to do something.###beg,entreat
+entreat###Verb###ask someone earnestly or anxiously to do something.###implore,beseech,beg
+beseech###Verb###ask someone urgently and fervently to do or give something.###implore,beg,entreat
+fervent###Adjective###having or displaying a passionate intensity.###passionate,impassioned
+impassioned###Adjective###filled with or showing great emotion.###emotional,wholehearted
+passionate###Adjective###having, showing, or caused by strong feelings or beliefs.###impassioned
+conjure###Verb###cause (a spirit or ghost) to appear by means of a magic ritual. / implore (someone) to do something
+succinct###Adjective###(especially of something written or spoken) briefly and clearly expressed.###concise, short, brief
+laconic###Adjective###of a person, speech, or style of writing) using very few words.###brief,concise,terse
+terse###Adjective###sparing in the use of words; abrupt.###compact,curt,brusque
+curt###Adjective###rudely brief.###terse,brusque,abrupt
+brusque###Adjective###abrupt or offhand in speech or manner.###curt,abrupt
+humbug###Noun###deceptive or false talk or behaviour.###hypocrisy;same Verb exists
+hypocrisy###Noun###the practice of claiming to have higher standards or more noble beliefs than is the case###pietism
+pietism###Noun###pious sentiment, especially of an exaggerated or affected nature.
+consequent###Adjective###following as a result or effect.
+bourgeois###Adjective###belonging to or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes.
+jealous###Adjective###feeling or showing an envious resentment of someone or their achievements, possessions, or perceived advantages.; suspicious###envious,covetous
+covetous###Adjective###having or showing a great desire to possess something belonging to someone else.###greedy,rapacious
+rapacity###Noun###aggressively greedy or grasping.###grasping,greedy,avaricious
+avarice###Noun###extreme greed for wealth or material gain.###grasping, acquisitive, covetous, greedy, rapacious
+acquisitive###Adjective###excessively interested in acquiring money or material things.###greedy,covetous
+adamant###Adjective###refusing to be persuaded or to change one's mind.###unwavering,inflexible,immovable
+resolve###Noun###firm determination to do something###same Verb exists
+purposeful###Adjective###having or showing determination or resolve. / having a useful purpose.###determined,resolute / 
+resolute###Adjective###admirably purposeful, determined, and unwavering.###determined,purposeful,purposive
+unwavering###Adjective###not wavering; steady or resolute###steady,determined
+fanatic###Noun###a person filled with excessive and single-minded zeal, especially for an extreme religious or political cause. / a person with an obsessive interest in and enthusiasm for a particular activity.###zealot,extremist / enthusiast, fan
+zealot###Noun###a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals###fanatic,enthusiast
+aficionado###Noun###a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime.###expert
+affliction###Noun###A cause of pain or harm / the state of being in pain###disorder,disease / suffering,distress
+malady###Noun###a disease or ailment / a serious problem###illness,sickness / 
+elucidate###Verb###Make (something) clear;explain
+tedious###Adjective###too long, slow, or dull; tiresome or monotonous.###boring,monotonous
+altercation###Noun###a noisy argument or disagreement, especially in public.###argument,quarrel
+clumsy###Adjective###awkward in movement or in handling things / done awkwardly or without skill / difficult to handle###awkward, inelegant / awkward / unmanageable
+acquiesce###Verb###accept something reluctantly but without protest.
+droll###Adjective###curious or unusual in a way that provokes dry amusement.###funny,humourous
+fidelity###Noun###faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support. / the degree of exactness with which something is copied or reproduced.###loyalty,allegiance / accuracy
+remorse###Noun###deep regret or guilt for a wrong committed.; an emotional feeling
+repent###Verb###feel or express sincere regret or remorse about one's wrongdoing or sin.
+poignant###Adjective###evoking a keen sense of sadness or regret or mental appeal / sharp or pungent in taste or smell.###touching,moving,sad / 
+garrulous###Adjective###excessively talkative, especially on trivial matters.###talkative,loquacious
+loquacious###Adjective###tending to talk a great deal; talkative.###talkative
+liaison###Noun###communication or cooperation which facilitates a close working relationship between people or organizations.
+plausible###Adjective###(of an argument or statement) seeming reasonable or probable. / (of a person) skilled at producing persuasive arguments, especially ones intended to deceive.###credible,reasonable,believable / 
+induce###Verb###succeed in persuading or leading (someone) to do something. / bring about or give rise to / produce###persuade, convince / generate
+discretion###Noun###the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information. / the freedom to decide what should be done in a particular situation.###circumspection,care / choice
+circumspect###Noun###wary and unwilling to take risks; prudence.###caution,care
+wary###Adjective###feeling or showing caution about possible dangers or problems.###cautious,careful
+formidable###Adjective###inspiring fear or respect through being impressively large, powerful, intense, or capable.
+prim###Adjective###feeling or showing disapproval of anything regarded as improper; stiffly correct.
+unassuming###Adjective###not pretentious or arrogant; modest.###modest,humble
+pious###Adjective###devoutly religious. / making or constituting a hypocritical display of virtue.###religious / hypocritical
+scantimonious###Adjective###making a show of being morally superior to other people.
+devout###Adjective###having or showing deep religious feeling or commitment. / totally committed to a cause or belief.###pious / dedicated
+demure###Adjective###(of a woman or her behaviour) reserved, modest, and shy.
+propriety###Noun###conformity to conventionally accepted standards of behaviour or morals.###decorum
+decorum###Noun###behaviour in keeping with good taste and propriety. / etiquette###propriety / etiquette
+hysteria###Noun###exaggerated or uncontrollable emotion or excitement.###frenzy
+transgress###Verb###go beyond the limits of (what is morally,   socially, or legally acceptable) or break a moral rule###misbehave
+overhaul###Verb###take apart (a piece of machinery or equipment) in order to examine it and repair it if necessary.###service,repair
+stub###Noun/Verb###the short part of something that is left after the main part has been used, especially a cigarette after it has been smoked or one of the small pieces of paper left in a book from which cheques or tickets have been torn / Accidentally strike against something / the counterfoil of a cheque, receipt, ticket, or other document.("retain your ticket stubs")
+ramification###Noun###a complex or unwelcome consequence of an action or event / a subdivision of a complex structure or process.
+ramify###Verb###form branches or offshoots; branch out.
+rudimentary###Adjective###involving or limited to basic principles. / relating to an immature, undeveloped, or basic form.
+lore###Noun###a body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth.
+demeanour###Noun###outward behaviour or bearing###manner
+bearing###Noun###a person's way of standing or moving. / the way a person behaves or conducts themselves / relation; relevance..###posture / manner,demeanour / relevance
+perceive###Verb###become aware or conscious of (something); come to realize or understand. / interpret or regard (someone or something) in a particular way.###discern,recognize / view,regard
+fuzzy###Adjective###difficult to perceive; indistinct or vague###indistinct
+suffrage###Noun###the right to vote in political elections.
+lodgement###Noun###a place in which a person or thing is located or lodged / the action of depositing or lodging something(bank)
+complicit###Adjective###involved with others in an activity that is unlawful or morally wrong.
+blight###Verb###spoil, harm, or destroy. / infect (plants) with blight.
+cover up###Noun###an attempt to prevent people discovering the truth about a serious mistake or crime.
+whitewash###Noun###a deliberate attempt to conceal unpleasant or incriminating facts about a person or organization in order to protect their reputation.
+monetary###Adjective###relating to money or currency.
+collude###Verb###come to a secret understanding; conspire.###conspire, connive, intrigue
+connive###Verb###secretly allow (something immoral, illegal, or harmful) to occur / conspire to do something immoral, illegal, or harmful.### / intrigue,collude
+intrigue###Verb###arouse the curiosity or interest of; fascinate / make secret plans to do something illicit or detrimental to someone.###interest / plot
+avid###Adjective###having or showing a keen interest in or enthusiasm for something;having an eager desire for.###keen
+expeditious###Adjective###done with speed and efficiency###swift
+reservation###Noun###an expression of doubt qualifying overall approval of a plan or statement. / the action of reserving something.
+unsolicited###Adjective###not asked for; given or done voluntarily.###uninvited
+solicit###Verb###ask for or try to obtain (something) from someone / accost someone and offer one's or someone else's services as a prostitute.###request / 
+minute###Noun / Verb###a summarized record of the proceedings at a meeting;a period of time equal to sixty seconds or a sixtieth of an hour / record (the proceedings of a meeting);send a memorandum to (someone).
+perforate###Verb###pierce and make a hole or holes in.###penetrate
+laid back###Adjective###relaxed and easy-going.
+slurry###Noun###a semi-liquid mixture, typically of fine particles of manure, cement, or coal and water.
+tatters###Noun###irregularly torn pieces of cloth, paper, or other material.
+ooze###Verb###(of a fluid) slowly trickle or seep out of something. / give a powerful impression of (a quality)###seep / exude
+trickle###Verb###(of a liquid) flow in a small stream.###drip, dribble
+diaspora###Noun###the dispersion or spread of any people from their original homeland;people who have spread or been dispersed from their homeland.
+domesticity###Noun###home or family life.
+mannerism###Noun###a habitual gesture or way of speaking or behaving / excessive use of a distinctive style in art, literature, or music.###oddity,idiosyncrasy / 
+oddity###Noun###a strange or peculiar person or thing.
+idiosyncrasy###Adjective###a mode of behaviour or way of thought peculiar to an individual.("one of his little idiosyncrasies was always preferring to be in the car first"); a distinctive or peculiar feature or characteristic of a place or thing.("the idiosyncrasies of the prison system")###peculiarity, individual/personal trait, oddity, eccentricity
+dashing###Adjective###attractive, adventurous, and full of confidence;stylish and fashionable###debonair / 
+debonair###Adjective###(of a man) confident, stylish, and charming.
+dash###Noun / Verb###a small quantity of a liquid added to something else.  / run or travel somewhere in a great hurry
+accost###Verb###approach and address (someone) boldly or aggressively.
+parley###Noun###a conference between opposing sides in a dispute, especially a discussion of terms for an armistice.
+armistice###Noun###an agreement made by opposing sides in a war to stop fighting for a certain time; a truce.
+truce###Adjective###an agreement between enemies or opponents to stop fighting or arguing for a certain time.
+mum###Adjective###silent.
+shun###Verb###persistently avoid, ignore, or reject (someone or something) through antipathy or caution.###eschew,evade
+abdicate###Verb###(of a monarch) renounce one's throne / fail to fulfil or undertake (a responsibility or duty).###resign / disown
+abnegate###Verb###renounce or reject (something desired or valuable).###refuse
+ironclad###Adjective###covered or protected with iron;impossible to contradict, weaken, or change.
+faze###Verb###disturb or disconcert (someone).
+disconcert###Verb###disturb the composure of; unsettle.
+unfazed###Adjective###not disconcerted or perturbed.
+resurgent###Adjective###increasing or reviving after a period of little activity, popularity, or occurrence.
+culinary###Adjective###of or for cooking.
+inclement###Adjective###(of the weather) unpleasantly cold or wet.###chilly
+perk###Verb / Noun###become or make more cheerful, lively, or interesting / a benefit to which one is entitled because of one's job.
+brandish###Verb###wave or flourish (something, especially a weapon) as a threat or in anger or excitement.
+flourish###Verbto be very successful; to do very well / to hold up and show (something) in an excited or proud way ("Dressed as a pirate, he entered the stage flourishing his sword.") / something that is added as a detail or decoration("the floral flourishes in the living room") ("Her writing style is simple and clear, without unnecessary flourishes.") / a dramatic or fancy way of doing something("Dinner was served with a flourish.") / a sudden smooth movement that is likely to be noticed("He waved his sword with a flourish.")
+audacity###Noun###a willingness to take bold risks / rude or disrespectful behaviour; impudence.
+perpetrate###Verb###carry out or commit (a harmful, illegal, or immoral action).
+trail###Verb###be losing to an opponent in a game or contest / give advance publicity to (a film, broadcast, or proposal) / follow (a person or animal) by using marks or scent left behind / walk or move slowly or wearily / draw or be drawn along behind someone or something
+masquerade###Noun###a false show or pretence.
+slouch###Verb###stand, move, or sit in a lazy, drooping way
+causative###Adjective###acting as a cause.
+vice###Noun###immoral or wicked behaviour;an immoral or wicked personal characteristic.
+ergonomic###Adjective###relating to or designed for efficiency and comfort in the working environment.
+clutter###Verb###cover or fill (something) with an untidy collection of things.
+mishmash###Noun###a confused mixture.
+perennial###Adjective###lasting or existing for a long or apparently infinite time; enduring or continually recurring / living for several years.###everlasting, eternal / 
+vagary###Noun###an unexpected and inexplicable change in a situation or in someone's behaviour.###quirk, idiosyncrasy
+coffer###Noun###a strongbox or small chest for holding valuables / the funds or financial reserves of an organization.###strongbox / fund
+liaise###Verb###cooperate on a matter of mutual concern;act as a link to assist communication between (people or groups).###cooperate
+despise###Verb###feel contempt or a deep repugnance for.###detest
+snorkel###Noun###a tube for a swimmer to breathe through while under water.
+moratorium###Noun###a temporary prohibition of an activity.###ban
+antics###Noun###foolish, outrageous, or amusing behaviour.###horseplay
+horseplay###Noun###rough, boisterous play.
+clinical###Adjective###relating to the observation and treatment of actual patients rather than theoretical or laboratory studies / very efficient and without feeling; coldly detached; expressing no emotion or feelings### / dispassionate
+dispassionate###Adjective###not influenced by strong emotion, and so able to be rational and impartial.###unemotional
+gizmo###Noun###a gadget, especially one whose name the speaker does not know or cannot recall.
+eviscerate###Verb###disembowel (a person or animal);deprive (something) of its essential content.
+disembowel###Verb###cut open and remove the internal organs of###eviscerate
+befriend###Verb###act as or become a friend to (someone), especially when they are in need of help or support.
+rejig###Verb###organize (something) differently; rearrange.
+slur###Verb###speak (words) indistinctly so that the sounds run into one another;  to say critical and unfair things about (someone or someone's character)("They tried to slur him by lying about his war record.")###mumble
+mumble###Verb###say something indistinctly and quietly, making it difficult for others to hear.
+enunciate###Verb###say or pronounce clearly;express (a proposition, theory, etc.) in clear or definite terms.
+single out###Verb###to treat or to speak about (someone or something in a group) in a way that is different from the way one treats or speaks about others
+spade###Verb / Noun###dig over (ground) with a spade / a tool with a sharp-edged, typically rectangular, metal blade and a long handle, used for digging or cutting earth, sand, turf, etc
+scribe###Noun / Verb###a person who copies out documents, especially one employed to do this before printing was invented / write
+snub###Verb###rebuff, ignore, or spurn disdainfully###affront
+affront###Verb###offend the modesty or values of###insult
+ruffle###Verb###disorder or disarrange (someone's hair), typically by running one's hands through it;disturb the smoothness or tranquillity of.
+steamroller###Noun###a heavy, slow-moving vehicle with a roller, used to flatten the surfaces of roads during construction.
+ethos###Noun###the characteristic spirit of a culture, era, or community as manifested in its attitudes and aspirations.
+impervious###Adjective###unable to be affected by / not allowing fluid to pass through.
+sloppy###Adjective###careless and unsystematic; excessively casual / (of a garment) casual and loose-fitting.
+slapdash###Adjective###done too hurriedly and carelessly.
+haphazard###Adjective###lacking any obvious principle of organization.###random, unplanned
+ordinance###Noun###an authoritative order.###edict, decree
+edict###Noun###an official order or proclamation issued by a person in authority.
+proclamation###Noun###a public or official announcement dealing with a matter of great importance.
+injunction###Noun###an authoritative warning or order.
+fiat###Noun###a formal authorization or proposition; a decree.
+hooligan###Noun###a violent young troublemaker, typically one of a gang.
+prudish###Adjective###having or revealing a tendency to be easily shocked by matters relating to sex or nudity; excessively concerned with sexual propriety.
+heuristic###Adjective###enabling a person to discover or learn something for themselves.
+exchequer###Noun###a royal or national treasury.
+gyrate###Verb###move or cause to move rapidly in a circle or spiral.###rotate
+transpire###Verb###(of a secret or something unknown) come to be known; be revealed;prove to be the case;occur or happen
+stigma###Noun###a mark of disgrace associated with a particular circumstance, quality, or person.
+rope in###Verb###If you say that you were roped in to do a particular task, you mean that someone persuaded you to help them do that task.
+traction###Noun### the support or interest that is needed for something to make progress or succeed / the adhesive friction of a body on a surface on which it moves
+atone###Verb###make amends or reparation.###compensate
+reparation###Noun###the action of making amends for a wrong one has done, by providing payment or other assistance to those who have been wronged.###restitution
+restitution###Noun###the restoration of something lost or stolen to its proper owner;the restoration of something to its original state / recompense for injury or loss###return / compensation
+amends###Noun###compensate or make up for a wrongdoing.###recompense, reparation
+recompense###Verb###make amends to (someone) for loss or harm suffered; compensate.
+firebrand###Noun###a person who is very passionate about a particular cause.
+rustle###Verb###make a soft, muffled crackling sound like that caused by the movement of dry leaves or paper / round up and steal (cattle, horses, or sheep).
+pachyderm###Noun###a very large mammal with thick skin, especially an elephant, rhinoceros, or hippopotamus.
+trample###Verb###tread on and crush;treat with contempt.
+sprawl###Verb###sit, lie, or fall with one's arms and legs spread out in an ungainly way / spread out over a large area in an untidy or irregular way;  to spread or develop in an uneven or uncontrolled way
+cordon###Verb###prevent access to or from an area or building by surrounding it with police or other guards.###isolate, segregate
+troupe###Noun###a group of dancers, actors, or other entertainers who tour to different venues.
+amnesty###Noun###an official pardon for people who have been convicted of political offences
+perpetual###Adjective###never ending or changing / occurring repeatedly; so frequent as to seem endless and uninterrupted.
+cusp###Noun###a point of transition (as from one historical period to the next);turning point;If you say that someone or something is on the cusp, you mean they are between two states, or are about to be in a particular state.
+flare up###Noun###a sudden outburst of something, especially violence or hostility.
+quantum###Noun###a required or allowed amount, especially an amount of money legally payable in damages.
+braid###Verb###interlace three or more strands of (hair or other flexible material) to form a length.(braided hair)
+radically###Adverb###in a thorough or fundamental way; completely.
+curative###Adjective###able to cure disease.
+radical###Adjective###characterized by departure from tradition; innovative or progressive / (especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough;forming an inherent or fundamental part of the nature of someone or something.###revolutionary, progressive / basic, fundamental, thorough, complete
+squander###Verb###waste (something, especially money or time) in a reckless and foolish manner;allow (an opportunity) to pass or be lost.
+persecute###Verb###subject (someone) to hostility and ill-treatment, especially because of their race or political or religious beliefs;harass or annoy (someone) persistently.###victimize, harass, abuse, oppress
+victimize###Verb###single (someone) out for cruel or unjust treatment.
+judicious###Adjective###having, showing, or done with good judgement or sense.
+solitary###Adjective###done or existing alone;single;###unaccompanied
+vocation###Noun###a strong feeling of suitability for a particular career or occupation;a trade or profession;a person's employment or main occupation, especially regarded as worthy and requiring dedication
+providence###Noun###the protective care of God or of nature as a spiritual power / timely preparation for future eventualities.###fate, destiny, nemesis / prudence, foresight, forethought
+nemesis###Noun###the inescapable agent of someone's or something's downfall;a long-standing rival; an arch-enemy; retributive justice.
+predation###Noun###the preying of one animal on others.
+muse###Verb / Noun###be absorbed in thought;say to oneself in a thoughtful manner / a person or personified force who is the source of inspiration for a creative artist.###ponder, consider
+machismo###Noun###strong or aggressive masculine pride.
+deride###Verb###express contempt for; ridicule.###mock
+slate###Verb###schedule; plan;If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. / cover (something, especially a roof) with slates
+dish out###Idiom###Literally, to distribute food    
+dish###Verb###put food on to a plate or plates before a meal / dispense something in a casual or indiscriminate way
+clientele###Noun###clients collectively.
+proceeds###Noun###money obtained from an event or activity.
+pizzazz###Noun###an attractive combination of vitality and glamour.
+heft###Verb###lift or carry (something heavy).
+gullible###Adjective###easily persuaded to believe something; credulous.###
+credulous###Adjective###having or showing too great a readiness to believe things.###gullible, naive
+naive###Adjective###(of a person or action) showing a lack of experience, wisdom, or judgement;(of a person) natural and unaffected; innocent.
+impressionable###Adjective###easily influenced.
+rein###Verb###check or guide (a horse) by pulling on its reins;keep under control; restrain.
+flank###Verb###be on each or on one side of.
+proponent###Noun###a person who advocates a theory, proposal, or course of action.
+recoup###Verb###regain (something lost or expended).
+peck###Verb###kiss (someone) lightly or perfunctorily / type (something) laboriously / (of a bird) strike or bite something with its beak.
+perfunctory###Adjective###(of an action) carried out without real interest, feeling, or effort.
+desultory###Adjective###lacking a plan, purpose, or enthusiasm.
+defiantly###Adverb###in a manner that shows open resistance or bold disobedience.
+flak###Noun###strong criticism.
+censure###Verb###express severe disapproval of (someone or something), especially in a formal statement.
+disapprobation###Noun###strong disapproval, typically on moral grounds.
+vitiate###Verb###spoil or impair the quality or efficiency of;destroy or impair the legal validity of
+subliminal###Adjective###(of a stimulus or mental process) below the threshold of sensation or consciousness; perceived by or affecting someone's mind without their being aware of it.
+botch###Verb###carry out (a task) badly or carelessly.###bungle
+bungle###Verb###carry out (a task) clumsily or incompetently;make or be prone to making many mistakes.###mishandle
+malapropism###Noun###the mistaken use of a word in place of a similar-sounding one, often with an amusing effect (e.g. ‘dance a flamingo ’ instead of flamenco ).###solecism
+solecism###Noun###a grammatical mistake in speech or writing;a breach of good manners; an instance of incorrect behaviour.
+botch up###Verb### make a mess of, destroy or ruin; To make a mess of something because of mistakes or poor judgment
+crimson###Verb / Noun###(of a person's face) become flushed, especially through embarrassment. / a rich deep red colour inclining to purple.
+generosity###Noun###the quality of being kind and generous / the quality or fact of being plentiful or large.
+munificense###Adjective###the quality or action of being extremely generous.
+largesse###Noun###generosity in bestowing money or gifts upon others / money or gifts given generously.###generosity
+bestow###Verb###confer or present (an honour, right, or gift).###give, vouchsafe
+vouchsafe###Verb###give or grant (something) to (someone) in a gracious or condescending manner / reveal or disclose (information).
+bloviate###Verb###talk at length, especially in an inflated or empty way.
+vanity###Noun###excessive pride in or admiration of one's own appearance or achievements / the quality of being worthless or futile.###conceit, conceitedness, self-conceit, narcissism / futility, uselessness
+futile###Adjective###incapable of producing any useful result; pointless.###fruitless
+expropriate###Verb###(of the state or an authority) take (property) from its owner for public use or benefit;dispossess (someone) of property.###commandeer
+commandeer###Verb###officially take possession or control of (something), especially for military purposes;take possession of (something) by force.
+stock###Adjective / Noun###(of a phrase or expression) so regularly used as to be automatic or hackneyed;(of a product or type of product) usually kept in stock and thus regularly available for sale. / regular meaning
+homicide###Noun###the killing of one person by another.
+prima facie###Adjective and Adverb###based on the first impression; accepted as correct until proved otherwise.
+swelter###Verb###be uncomfortably hot.
+rote###Noun###mechanical or habitual repetition of something to be learned.
+starry###Adjective###full of or lit by stars;resembling a star in brightness or shape.
+stupendous###Adjective###extremely impressive.###amazing, astounding
+gorge###Verb/Noun###eat a large amount greedily; fill oneself with food / a narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.
+smithereens###Noun###small pieces.
+proposition###Noun###a statement or assertion that expresses a judgement or opinion / a suggested scheme or plan of action, especially in a business context.
+sound off###Verb (phrasal)###express one's opinions in a loud or forceful manner.
+modus operandi###Noun###a particular way or method of doing something;the way in which something operates or works.
+raison d'être###Noun###the most important reason or purpose for someone or something's existence.
+shabby###Adjective###in poor condition through long use or lack of care / (of behaviour) mean and unfair.###neglected,dilapidated / contemptible
+dilapidate###Verb###cause (something) to fall into disrepair or ruin.
+skew###Verb###suddenly change direction or position / make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading.
+curdle###Verb###separate or cause to separate into curds or lumps.
+flutter###Verb###(of a bird or other winged creature) fly unsteadily or hover by flapping the wings quickly and lightly / move with a light irregular or trembling motion.
+shove###Verb###push (someone or something) roughly.
+melee###Noun###a confused fight or scuffle / a confused crowd of people.
+tumult###Noun###a loud, confused noise, especially one caused by a large mass of people;a state of confusion or disorder.
+spool###Verb###wind (magnetic tape, thread, etc.) on to a spool.
+covet###Verb###yearn to possess (something, especially something belonging to another).###desire
+blare###Verb###make or cause to make a loud, harsh sound.
+vindictful###Adjective###having or showing a strong or unreasoning desire for revenge.###vengeful
+subversive###Adjective###seeking or intended to subvert an established system or institution.
+subvert###Verb###undermine the power and authority of (an established system or institution).
+nexus###Noun###a connection or series of connections linking two or more things;a connected group or series / a central or focal point.
+pasture###Noun###used to refer to a person's situation in life / land covered with grass and other low plants suitable for grazing animals, especially cattle or sheep.
+rummage###Verb###search unsystematically and untidily through something.
+rack###Verb###cause extreme pain, anguish, or distress to / place in or on a rack.
+perusal###Noun###the action of reading or examining something.
+rake up###Verb### To collect or gather something with or as if with a rake: After I had cut the grass, I raked up the trimmings and piled them in a heap. We raked the leaves up / To revive or bring something to light; uncover something: When he runs out of things to say, he rakes old stories up from his days in the army. She is sure to rake up an embarrassing story or two about me!
+interstice###Noun###an intervening space, especially a very small one.
+perspiration###Noun###the process of sweating.
+requisition###Noun / Verb###an official order laying claim to the use of property or materials. / demand the use or supply of (something) by official order.###order / commandeer
+expedite###Verb###make (an action or process) happen sooner or be accomplished more quickly.###accelerate, hurry, hasten
+hasten###Verb###be quick to do something;cause (something, especially something undesirable) to happen sooner than it otherwise would.###accelerate, quicken
+zeal###Noun###great energy or enthusiasm in pursuit of a cause or an objective.###passion
+adjudicate###Verb###make a formal judgement on a disputed matter;act as a judge in a competition;pronounce or declare judicially.
+arbitrate###Verb###(of an independent person or body) reach an authoritative judgement or settlement.###adjudicate, judge, adjudge
+scintillate###Verb###emit flashes of light; sparkle.###shine
+whack###Verb###strike forcefully with a sharp blow;defeat in a contest.
+natal###Adjective###relating to the place or time of one's birth.
+siesta###Noun###an afternoon rest or nap, especially one taken during the hottest hours of the day in a hot climate.
+grimace###Noun###an ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement.###scowl
+federate###Verb###(with reference to a number of states or organizations) form or be formed into a single centralized unit, within which each state or organization keeps some internal autonomy.###confederate, unite
+confederate###Verb###bring (states or groups of people) into an alliance.
+esoteric###Adjective###intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.###obscure, abstruse
+hazy###Adjective###covered  by haze / vague or ill defined; confused; uncertain
+flub###Verb###botch or bungle (something).
+stilted###Adjective###(of a manner of talking or writing) stiff and self-conscious or unnatural.###strained, forced, contrived
+bicker###Verb###argue about petty and trivial matters.###squabble, argue
+flaunt###Verb###display (something) ostentatiously, especially in order to provoke envy or admiration or to show defiance.
+protege###Noun###a person who is guided and supported by an older and more experienced or influential person
+ensemble###Noun### group of items viewed as a whole rather than individually.
+splurge###Noun###an act of spending money freely or extravagantly. / a large or excessive amount of something.
+warp###Verb###make or become bent or twisted out of shape, typically as a result of the effects of heat or damp;make abnormal or strange; distort.###deform
+gouge###Verb###make (a groove, hole, or indentation) with or as if with a gouge;cut or force something out roughly or brutally;make a rough hole or indentation in (a surface), especially so as to mar or disfigure it.
+frolic###Verb###play or move about in a cheerful and lively way; play about with someone in a flirtatious or sexual way
+testament###Noun###a person's will, especially the part relating to personal property / something that serves as a sign or evidence of a specified fact, event, or quality.###witneess, proof, evidence
+spree###Noun###a spell or sustained period of unrestrained activity of a particular kind.
+slugfest###Noun###a tough and challenging contest, especially in sports such as boxing and baseball.
+hearth###Noun###the floor of a fireplace.
+vent###Verb###give free expression to (a strong emotion);provide with an outlet for air, gas, or liquid.###release
+cling###Verb###hold on tightly to. / be overly dependent on (someone) emotionally / adhere or stick firmly or closely to; be hard to part or remove from.
+fete###Verb###honour or entertain (someone) lavishly.
+ghoul###Noun###an evil spirit or phantom, especially one supposed to rob graves and feed on dead bodies / a person morbidly interested in death or disaster.
+squint###Verb###look at someone or something with one or both eyes partly closed in an attempt to see more clearly or as a reaction to strong light / have eyes that look in different directions.
+eloquent###Adjective###fluent or persuasive in speaking or writing;clearly expressing or indicating something.###persuasive, expressing
+perilous###Adjective###full of danger or risk;exposed to imminent risk of disaster or ruin.
+resuscitate###Verb###revive (someone) from unconsciousness or apparent death;make (something) active or vigorous again.###resurrect, regenerate
+kosher###Adjective###(of food, or premises in which food is sold, cooked, or eaten) satisfying the requirements of Jewish law / genuine and legitimate
+exhume###Verb###dig out (something buried, especially a corpse) from the ground.###disinter, unearth
+disinter###Verb###dig up (something that has been buried, especially a corpse)/ discover###unearth
+Verbatim###Adjective / Adverb###in exactly the same words as were used originally.
+demure###Adjective###(of a woman or her behaviour) reserved, modest, and shy.###unassuming, meek, mild
+mild###Adjective###not severe, serious, or harsh / gentle and not easily provoked.
+lenient###Adjective###(of a punishment or person in authority) more merciful or tolerant than expected.###merciful, clement, sparing
+clement###Adjective###(of weather) mild / (of a person or their actions) merciful.
+smirk###Verb###smile in an irritatingly smug, conceited, or silly way.
+boner###Noun###a stupid mistake.
+rosy###Adjective###promising or suggesting good fortune or happiness; hopeful / (especially of a person's skin) coloured like a pink or red rose, typically as an indication of health, youth, or embarrassment.###optimistic / 
+niggle###Verb###cause slight but persistent annoyance, discomfort, or anxiety / criticize or annoy (someone) in a petty way.###irritate / complain
+lark###Verb / Adjective###enjoy oneself by behaving in a playful and mischievous way / a person who habitually gets up early and feels energetic early in the day.
+disenfranchise###Verb###deprive (someone) of the right to vote / deprive (someone) of a right or privilege.
+intrepid###Adjective###fearless; adventurous (often used for rhetorical or humorous effect).###unafraid
+naught###Pronoun###nothing. / variant spelling of nought
+nought###Noun###the digit 0. / variant spelling of naught
+fundamentalist###Noun###a person who believes in the strict, literal interpretation of scripture in a religion.
+interminable###Adjective###endless or apparently endless (often used hyperbolically).###never ending
+snarl###Verb###(of an animal such as a dog) make an aggressive growl with bared teeth;(of a person) say something in an angry, bad-tempered voice / entangle something### / interwine, entwine
+intertwine###Verb###twist or twine together;connect or link (two or more things) closely.###entwine
+entwine###Verb###wind or twist together; interweave.###interweave
+interweave###Verb###weave or become woven together;blend closely.###intertwine, entwine
+concierge###Noun###a hotel employee whose job is to assist guests by booking tours, making theatre and restaurant reservations, etc.
+offtake###Noun###the removal of oil from a reservoir or supply.
+syndicate###Noun###a group of individuals or organizations combined to promote a common interest / a committee of syndics.
+syndic###Noun###a government official in various countries / (in the UK) a business agent of certain universities and corporations, especially a member of a senate committee at Cambridge University.
+languish###Verb###(of a person, animal, or plant) lose or lack vitality; grow weak;fail to make progress or be successful / be forced to remain in an unpleasant place or situation###deteriorate / rot, decay
+perspicacious###Adjective###having a ready insight into and understanding of things.
+dirge###Noun###a lament for the dead, especially one forming part of a funeral rite;a mournful song, piece of music, or sound.###elegy, requiem
+elegy###Noun###(in modern literature) a poem of serious reflection, typically a lament for the dead.###dirge, requiem
+requiem###Noun###(especially in the Roman Catholic Church) a Mass for the repose of the souls of the dead.
+repose###Noun / Verb###a state of rest, sleep, or tranquillity;the state of being calm and composed / be situated or kept in a particular place;lie down in rest;place something, especially one's confidence or trust, in.
+plaint###Noun###a complaint or lamentation.
+consign###Verb###deliver (something) to a person's keeping;send (goods) by a public carrier.put someone or something in (a place) in order to be rid of it or them; to put (someone) in a usually unpleasant place or situation; to put (something that is not wanted or used) in a place where old things are stored or thrown away###assign, allocate, send, deliver
+moolah###Noun###money.
+measly###Adjective###ridiculously small or few.
+countenance###Noun###a person's face or facial expression / support or approval
+abetment###Noun###the act of helping or encouraging someone to do something wrong or illegal
+abet###Verb###encourage or assist (someone) to do something wrong, in particular to commit a crime;encourage or assist someone to commit (a crime).
+turf###Noun###grass and the surface layer of earth held together by its roots / horse racing or racecourses generally
+collusive###Adjective###acting together secretly or illegally in order to deceive or cheat someone
+collusion###Noun###secret or illegal cooperation or conspiracy in order to deceive others.###connivance
+conspiracy###Noun###a secret plan by a group to do something unlawful or harmful;the action of plotting or conspiring.###connivance
+connivance###Noun###willingness to allow or be secretly involved in an immoral or illegal act.###complicity
+machination###Noun###a plot or scheme.
+lest###Conjunction###with the intention of preventing (something undesirable); to avoid the risk of;(after a clause indicating fear) because of the possibility of something undesirable happening; in case.###	in case, just in case (he spent whole days in his room, wearing headphones lest he disturb anyone, she sat up late worrying lest he be murdered on the way home)
+loggerheads###Noun###to strongly disagree (with someone)
+gage###Verb###offer (an object or one's life) as a guarantee of good faith
+forfeit###Verb###lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing;lose or give up (something) as a necessary consequence of something else.
+yield###Verb###produce or provide (a natural, agricultural, or industrial product) / give way to arguments, demands, or pressure###produce / surrender
+veneer###Verb###cover (something) with a decorative layer of fine wood / cover or disguise (someone or something's true nature) with an attractive appearance.
+rickety###Adjective###(of a structure or piece of equipment) poorly made and likely to collapse.###shaky, unsteady
+nimble###Adjective###quick and light in movement or action; agile / (of the mind) able to think and understand quickly.###lithe / quick-witted
+sprightly###Adjective###(especially of an old person) lively; full of energy.###active, spirited
+lithe###Adjective###(especially of a person's body) thin, supple, and graceful.
+conduit###Noun###a channel for conveying water or other fluid; a person or organization that acts as a channel for the transmission of something / a tube or trough for protecting electric wiring.
+moot###Adjective###subject to debate, dispute, or uncertainty / having little or no practical relevance###debatable / 
+gawk###Verb###stare openly and stupidly.###gaze
+gaze###Verb###look steadily and intently, especially in admiration, surprise, or thought.###stare
+disparate###Adjective###essentially different in kind; not able to be compared.
+motley###Adjective###incongruously varied in appearance or character; disparate; made up of many different people or things###miscellaneous, disparate, diverse, assorted
+doctrine###Noun###a belief or set of beliefs, especially political or religious ones, that are taught and accepted by a particular group
+instill###Verb###gradually but firmly establish (an idea or attitude) in a person's mind / put (a substance) into something in the form of liquid drops.###inculcate, implant / administer, introduce
+chasm###Noun###a profound difference between people, viewpoints, feelings, etc
+cynosure###Noun###a person or thing that is the centre of attention or admiration.
+regal###Adjective###of, resembling, or fit for a monarch, especially in being magnificent or dignified.###majestic, grand, impressive
+epitome###Noun###a person or thing that is a perfect example of a particular quality or type / a summary of a written work; an abstrac###personification, embodiment / summary, abstract
+fallacious###Adjective###based on a mistaken belief.###erroneous, false
+overtly###Adverb###without concealment or secrecy; openly.
+enthral###Verb###capture the fascinated attention of.###captivate, charm
+supplant###Verb###supersede and replace.###displace
+supersede###Verb###take the place of (a person or thing previously in authority or use); supplant.###replace
+stoic###Noun###a person who can endure pain or hardship without showing their feelings or complaining.
+passe###Adjective###no longer fashionable; out of date.###outdated
+eminence###Noun###fame or acknowledged superiority within a particular sphere / an important or distinguished person.###distinction, renown / dignitary
+ode###Noun###a poem expressing the writer's thoughts and feelings about a particular person or subject, usually written to that person or subject
+continnum###Noun###a continuous sequence in which adjacent elements are not perceptibly different from each other, but the extremes are quite distinct.
+denomination###Noun###a religious group that has slightly different beliefs from other groups that share the same religion / a unit of value, especially of money
+underplay###Verb###perform (something) in a restrained way / represent (something) as being less important than it really is
+decry###Verb###publicly denounce.###denounce, condemn, criticize, censure
+depreciate###Verb###disparage or belittle (something) / diminish in value over a period of time###denigrate / cheapen
+foreclosure###Noun###the action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
+aspersion###Noun###an attack on the reputation or integrity of someone or something.###vilification, denigration
+asperse###Verb###attack or criticize the reputation or integrity of.
+high octane###Adjective###denoting petrol having a high octane number and thus good anti-knock properties; powerful or dynamic
+inception###Noun###the establishment or starting point of an institution or activity.("she has been on the board since its inception two years ago")###establishment
+gruelling###Adjective### very difficult, requiring great effort; extremely tiring and demanding.("a gruelling schedule")###exhausting, tiring

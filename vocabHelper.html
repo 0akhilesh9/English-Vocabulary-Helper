@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Vocab Helper</title>
+
+<script src="core.js"></script>
+</head>
+	<body>
+<div id="box1">
+<div id="box1_wordCountText">Total Words Loaded: <span id="box1_wordCountValue" >0</span></div>
+<br>
+Select a file to load &nbsp&nbsp<input type="file" id="box1_fileInput" multiple="multiple"/> <br>
+<p> Loaded Files: </p>  
+<div id="box1_loadedFilesInfo"></div><br>
+
+<div id="box1_findWord">
+<input type="text" required id="box1_findWord_value">
+<input type="button" value="search" onclick="searchWord()">
+<input type="button" value="clear search" onclick="clearSearch()">
+<p id="box1_findWord_Result"></p>
+</div><br>
+
+Test Words Count <input type="number" value="10" id="box1_maxTestCount" style="width:40px;"/> 
+<!-- <div id="box1_refWordCountText" style="display: inline; padding-left: 100px;">Total Ref Words Loaded: <span id="box1_refWordCountValue" >0</span></div>
+<br>
+<br>
+Select a file to load &nbsp&nbsp<input type="file" id="box1_refFileInput" multiple="multiple"/> <br>
+<p> Loaded Ref Files: </p> -->
+<div id="box1_loadedRefFilesInfo"></div><br>
+<input type="button" value="start" onclick="startTest()">
+<input type="button" value="clear" onclick="clearTest()">
+<!--
+<input type="checkbox" id="refWordListOnly" value="refWordListOnly"> -->
+</div>
+<br>
+<div id="box2">
+</div>
+<input type="button" id="showButton" style="display:none;" value="show all" onclick="showAll()">
+
+	</body>
+</html>
+<script>
+document.getElementById('box1_fileInput').addEventListener('change', readSingleFileParam, false);
+document.getElementById('box1_refFileInput').addEventListener('change', readSingleFileParam, false);
+</script>
