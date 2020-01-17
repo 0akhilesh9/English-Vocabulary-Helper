@@ -7,7 +7,7 @@ Type the word for which you want to know the details and select 'search'
 You can also test your vocabulary on the vocab file you have loaded.
 
 vocab files format:
-<word>###<parts_of_speech>###<meaning>###<synonymns>
+"<word>###<parts_of_speech>###<meaning>###<synonymns>"
 
 synonymns part is optional
 
